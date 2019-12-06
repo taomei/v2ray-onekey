@@ -23,3 +23,7 @@ bash <(curl -L -s dos2unix https://raw.githubusercontent.com/breakwa2333/v2ray-o
 
 
 wget -N --no-check-certificate "http://shell.p1e.cn/BBR/4for1tcp.sh" && chmod +x 4for1tcp.sh && ./4for1tcp.sh
+
+
+
+wget --no-check-certificate https://raw.githubusercontent.com/cx9208/Linux-NetSpeed/master/tcp.sh && chmod +x tcp.sh && ./tcp.sh
